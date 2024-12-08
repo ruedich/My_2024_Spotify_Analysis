@@ -6,7 +6,7 @@ The required data for 2024 appears in 3 different json files, which were convert
 
 ## Results
 
-* Annual analysis
+* Annual analysis (excluding December)
   + Top artists (by ocurrences/frequency played and playtime)
   + Top songs (by ocurrences/frequency played and playtime)
     + My top song according to Spotify (by ocurrences): different ranking's position
@@ -17,7 +17,7 @@ The required data for 2024 appears in 3 different json files, which were convert
     + Monthly playtime progession
     + Total playtime
 
-* Monthly Analysis
+* Monthly Analysis (excluding December)
   + Top artists (by ocurrences/frequency played and playtime)
   + Top songs (by ocurrences/frequency played and playtime)
   + Top albums (by playtime)
